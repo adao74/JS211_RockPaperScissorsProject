@@ -16,7 +16,7 @@ let firstAnswer;
 let secondAnswer;
 
 // the function that will be called by the unit test below
-const rockPaperScissors = () => {
+const rockPaperScissors = (firstAnswer, secondAnswer) => {
 
   // Write code here
   // Use the unit test to see what is expected
